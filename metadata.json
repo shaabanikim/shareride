@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Copy of ShareRide",
+  "description": "A modern, sleek interface for a ride-sharing application, allowing users to select their destination, choose from various ride options, and confirm their booking. The app features a real-time map view and a detailed ride selection panel.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
